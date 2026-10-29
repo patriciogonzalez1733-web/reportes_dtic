@@ -1,0 +1,15 @@
+{
+    "require": {
+        "phpoffice/phpword": "^1.4",
+        "phpoffice/phpspreadsheet": "^5.10",
+        "phpmailer/phpmailer": "^7.1",
+        "railsware/mailtrap-php": "^3.15",
+        "symfony/http-client": "^7.4",
+        "nyholm/psr7": "^1.8"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
